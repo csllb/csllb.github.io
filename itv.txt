@@ -145,13 +145,6 @@ CHC动作电影,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 休闲指南,http://39.134.221.74:80/wh7f454c46tw3843668575_457512152/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
 中华特产,http://39.134.221.60:80/wh7f454c46tw3846659702_1009756640/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 
-家有购物,http://39.134.221.65:80/wh7f454c46tw3598607705_-314643587/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-央广购物,http://39.134.221.30:80/wh7f454c46tw3603601073_313434963/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8
-环球购物,http://39.134.221.74:80/wh7f454c46tw3607597527_-1161305177/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-好享购物,http://39.134.221.46:80/wh7f454c46tw3611617781_1887165937/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-风尚购物,http://39.134.221.71:80/wh7f454c46tw3615598616_290230096/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-快乐购,http://39.134.221.50:80/wh7f454c46tw3618605052_83618330/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226470/index.m3u8
-欢腾购物,http://39.134.221.60:80/wh7f454c46tw3644588036_1559770345/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226432/index.m3u8
 
 
 
